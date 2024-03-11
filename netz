@@ -1,1 +1,1 @@
-while true do end
+game.Players.LocalPlayer:Kick("x")
